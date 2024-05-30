@@ -5,9 +5,9 @@ from telegram.ext import (
     MessageHandler,
     Application,
 )
-from gemini_pr.filters import AuthFilter, MessageFilter, PhotoFilter
+from llm_Bot.filters import AuthFilter, MessageFilter, PhotoFilter
 from dotenv import load_dotenv
-from gemini_pro_bot.handlers import (
+from llm_Bot.handlers import (
     start,
     help_command,
     newchat_command,
