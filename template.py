@@ -18,6 +18,7 @@ list_of_files = [
     "main.py",
     ".env",
     "Docker",
+    ".dockerignore",
     "requirements.txt",
     
 ]

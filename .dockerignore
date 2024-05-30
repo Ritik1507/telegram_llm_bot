@@ -1,0 +1,6 @@
+﻿.venv
+.env.example
+.git
+.gitignore
+.github
+.gitattributes
